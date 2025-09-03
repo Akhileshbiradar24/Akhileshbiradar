@@ -1,4 +1,4 @@
-q<!-- Banner or GIF (replace the link with your own if you want a custom one) -->
+<!-- Banner or GIF (replace the link with your own if you want a custom one) -->
 ![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)r
 
 # 👋 Hi, I'm Akhilesh Biradar  
@@ -21,7 +21,7 @@ q<!-- Banner or GIF (replace the link with your own if you want a custom one) --
 ---
 
 ## 📊 GitHub Stats  
-![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhileshbiradar&show_icons=true&theme=tokyronight)  eq
+![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhileshbiradar&show_icons=true&theme=tokyronight)  
 
 ---
 
